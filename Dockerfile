@@ -1,4 +1,3 @@
-
 # Builder
 # This section defines a build stage named "builder" using the Node.js 16.17.0 image as the base image.
 FROM node:16.17.0 as builder
